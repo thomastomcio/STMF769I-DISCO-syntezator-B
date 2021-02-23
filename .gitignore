@@ -1,0 +1,13 @@
+*.i
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+*.log
+*.net
+*.raw
+*.swp
+*.out
+*.exe

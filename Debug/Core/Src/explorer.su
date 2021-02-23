@@ -1,0 +1,4 @@
+explorer.c:24:9:Explorer_StorageInit	8	static
+explorer.c:43:9:Explorer_StorageParse	88	static
+explorer.c:94:9:Explorer_Process	8	static
+explorer.c:121:10:Explorer_GetWavObjectNumber	4	static

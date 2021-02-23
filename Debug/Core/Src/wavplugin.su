@@ -1,0 +1,9 @@
+core_cm7.h:2491:22:SCB_CleanDCache_by_Addr	32	static,ignoring_inline_asm
+wavplugin.c:39:20:AUDIO_PLAYER_Init	8	static
+wavplugin.c:53:20:AUDIO_PLAYER_Start	32	static
+wavplugin.c:121:20:AUDIO_PLAYER_Process	24	static
+wavplugin.c:336:20:AUDIO_PLAYER_Stop	8	static
+wavplugin.c:348:6:BSP_AUDIO_OUT_TransferComplete_CallBack	4	static
+wavplugin.c:357:6:BSP_AUDIO_OUT_HalfTransfer_CallBack	4	static
+wavplugin.c:369:27:GetFileInfo	24	static
+wavplugin.c:416:16:PlayerInit	16	static
